@@ -27,7 +27,7 @@ const reducer = (state = defaultState, action) => {
             })
         default:
             return state
-    }       
+    }
 }
 
 export default reducer

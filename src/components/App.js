@@ -4,7 +4,6 @@ import TopHeaderContainer from '../containers/TopHeaderContainer'
 import ProjectsContainer from '../containers/ProjectContainer'
 
 class App extends React.Component {
-
     render() {
         return (
             <Container>
