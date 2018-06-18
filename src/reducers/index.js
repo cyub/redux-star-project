@@ -7,7 +7,7 @@ import {
 const defaultState = {
     lang: 'javascript',
     projects: [],
-    status: 'default'
+    status: 'request'
 }
 
 const reducer = (state = defaultState, action) => {
